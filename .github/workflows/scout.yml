@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME: wrayalav/scout
+  IMAGE_NAME: wrayala/scout
   SHA: ${{ github.sha }}
 
 jobs:
